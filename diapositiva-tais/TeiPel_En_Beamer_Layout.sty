@@ -106,19 +106,19 @@
 	% Comment to completely cover next transparencies %%
 		\setbeamercovered{transparent=30}
 	% Table of contents before each Section
-		\AtBeginSubsection[]{
-		  \frame<beamer>{ 
-		    \frametitle{Contents}   
-		    \tableofcontents[currentsection,currentsubsection] 
-		  }
-		}
+		%\AtBeginSubsection[]{
+		  %\frame<beamer>{ 
+		  %  \frametitle{Contenido}   
+		    %\tableofcontents[currentsection,currentsubsection] 
+		  %}
+		%}
     % Add draft watermark
     \IfSubStr{#1}{draft}%
     	{%
         	\usepackage{tikz}%
     		\setbeamertemplate{background}{%
             	\begin{tikzpicture}[remember picture, overlay]
-        			\node[rotate=90, anchor=west, xshift=45pt, yshift=-10pt] at (current page.south west){\textcolor{gray!60}{\emph{Watermark}}};%
+        			\node[rotate=90, anchor=west, xshift=45pt, yshift=-10pt] at (current page.south west){\textcolor{gray!60}{\emph{EPIS-UNSA}}};%
             	\end{tikzpicture}%
             }%
         }{}
