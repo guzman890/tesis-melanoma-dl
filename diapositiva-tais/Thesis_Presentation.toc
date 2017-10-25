@@ -1,6 +1,10 @@
-\beamer@sectionintoc {1}{Motivaton}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{The basic problem that we have studed}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Previous work}{12}{0}{1}
-\beamer@sectionintoc {2}{Results / contribution}{18}{0}{2}
-\beamer@subsectionintoc {2}{1}{Main results}{18}{0}{2}
-\beamer@subsectionintoc {2}{2}{Subsection title}{20}{0}{2}
+\beamer@sectionintoc {1}{Descripci\IeC {\'o}n de la Realidad del Problema}{3}{0}{1}
+\beamer@sectionintoc {2}{Estado del arte}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Requerimientos para detecci\IeC {\'o}n de melanoma}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Detecci\IeC {\'o}n de melanoma computarizado }{5}{0}{2}
+\beamer@subsectionintoc {2}{3}{M\IeC {\'e}todos aplicados }{7}{0}{2}
+\beamer@subsectionintoc {2}{4}{Diagrama de flujo }{9}{0}{2}
+\beamer@subsectionintoc {2}{5}{La precisi\IeC {\'o}n de los m\IeC {\'e}todos de detecci\IeC {\'o}n }{11}{0}{2}
+\beamer@sectionintoc {3}{Objetivos del Problema}{13}{0}{3}
+\beamer@subsectionintoc {3}{1}{Objetivo General}{13}{0}{3}
+\beamer@subsectionintoc {3}{2}{Objetivos Espec\IeC {\'\i }ficos}{15}{0}{3}
