@@ -1,11 +1,13 @@
 \beamer@sectionintoc {1}{Descripci\IeC {\'o}n de la Realidad del Problema}{3}{0}{1}
-\beamer@sectionintoc {2}{Esquema del proyecto}{7}{0}{2}
+\beamer@sectionintoc {2}{Formulaci\IeC {\'o}n del Problema}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Problema}{7}{0}{2}
 \beamer@sectionintoc {3}{Objetivos del Problema}{9}{0}{3}
 \beamer@subsectionintoc {3}{1}{Objetivo General}{9}{0}{3}
 \beamer@subsectionintoc {3}{2}{Objetivos Espec\IeC {\'\i }ficos}{11}{0}{3}
-\beamer@sectionintoc {4}{Estado del arte}{12}{0}{4}
-\beamer@subsectionintoc {4}{1}{Requerimientos para detecci\IeC {\'o}n de melanoma}{12}{0}{4}
-\beamer@subsectionintoc {4}{2}{Detecci\IeC {\'o}n de melanoma computarizado }{14}{0}{4}
-\beamer@subsectionintoc {4}{3}{M\IeC {\'e}todos aplicados }{15}{0}{4}
-\beamer@subsectionintoc {4}{4}{Diagrama de flujo }{16}{0}{4}
-\beamer@subsectionintoc {4}{5}{La precisi\IeC {\'o}n de los m\IeC {\'e}todos de detecci\IeC {\'o}n }{17}{0}{4}
+\beamer@sectionintoc {4}{Esquema del proyecto}{12}{0}{4}
+\beamer@sectionintoc {5}{Estado del arte}{14}{0}{5}
+\beamer@subsectionintoc {5}{1}{Requerimientos para detecci\IeC {\'o}n de melanoma}{14}{0}{5}
+\beamer@subsectionintoc {5}{2}{Detecci\IeC {\'o}n de melanoma computarizado }{16}{0}{5}
+\beamer@subsectionintoc {5}{3}{M\IeC {\'e}todos aplicados }{17}{0}{5}
+\beamer@subsectionintoc {5}{4}{Diagrama de flujo }{18}{0}{5}
+\beamer@subsectionintoc {5}{5}{La precisi\IeC {\'o}n de los m\IeC {\'e}todos de detecci\IeC {\'o}n }{19}{0}{5}
