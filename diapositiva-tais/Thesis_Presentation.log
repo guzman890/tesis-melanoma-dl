@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.22)  27 OCT 2017 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.22)  23 NOV 2017 20:05
 entering extended mode
 **./Thesis_Presentation.tex
 (Thesis_Presentation.tex
@@ -1428,47 +1428,89 @@ LaTeX Font Info:    Font shape `OT1/maksf/bx/it' will be
 (Font)              scaled to size 9.85492pt on input line 120.
  [7
 
-] [8] (Thesis_Presentation.toc) [9
+] [8]
+<images/esquema_v01.png, id=192, 578.16pt x 325.215pt>
+File: images/esquema_v01.png Graphic file (type png)
 
-] [10] [11
+<use images/esquema_v01.png>
+Package pdftex.def Info: images/esquema_v01.png used on input line 125.
+(pdftex.def)             Requested size: 338.02072pt x 190.13339pt.
 
-]
-(Thesis_Presentation.toc)
-<./images/esquema_v01.png, id=233, 578.16pt x 325.215pt>
-File: ./images/esquema_v01.png Graphic file (type png)
-
-<use ./images/esquema_v01.png>
-Package pdftex.def Info: ./images/esquema_v01.png used on input line 152.
-(pdftex.def)             Requested size: 346.89867pt x 195.1305pt.
-
-Overfull \hbox (39.6088pt too wide) in paragraph at lines 152--152
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 125--125
 [][]  
  []
 
-[12
+[9
 
-] [13 <./images/esquema_v01.png>] (Thesis_Presentation.toc) [14
+ <./images/esquema_v01.png>] (Thesis_Presentation.toc) [10
 
-] [15]
-[16
-
-] [17
-
-] [18
-
-] [19
+] [11] [12
 
 ]
-LaTeX Font Info:    Try loading font information for OML+mak on input line 198.
+(Thesis_Presentation.toc) [13
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\kerkis\omlmak.fd")
-LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 9.85492pt on input line 198.
+] [14] (Thesis_Presentation.toc)
+<images/cronograma.png, id=295, 291.489pt x 110.814pt>
+File: images/cronograma.png Graphic file (type png)
+
+<use images/cronograma.png>
+Package pdftex.def Info: images/cronograma.png used on input line 170.
+(pdftex.def)             Requested size: 338.02072pt x 128.51218pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 170--170
+[][]  
+ []
+
+[15
+
+] [16 <./images/cronograma.png>] (Thesis_Presentation.toc)
+<images/carga.png, id=332, 396.2805pt x 219.219pt>
+File: images/carga.png Graphic file (type png)
+ <use images/carga.png>
+Package pdftex.def Info: images/carga.png used on input line 179.
+(pdftex.def)             Requested size: 338.02072pt x 187.00267pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 179--179
+[][]  
+ []
+
+[17
+
+] [18 <./images/carga.png>]
+<images/division.png, id=353, 527.571pt x 117.43875pt>
+File: images/division.png Graphic file (type png)
+
+<use images/division.png>
+Package pdftex.def Info: images/division.png used on input line 183.
+(pdftex.def)             Requested size: 338.02072pt x 75.24475pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 183--183
+[][]  
+ []
+
+[19
+
+ <./images/division.png>]
+<images/definicion_modelo.png, id=366, 557.08125pt x 417.9615pt>
+File: images/definicion_modelo.png Graphic file (type png)
+
+<use images/definicion_modelo.png>
+Package pdftex.def Info: images/definicion_modelo.png used on input line 187.
+(pdftex.def)             Requested size: 338.02072pt x 253.61047pt.
+
+Overfull \hbox (30.73085pt too wide) in paragraph at lines 187--187
+[][]  
+ []
+
+
+Overfull \vbox (44.3753pt too high) detected at line 187
+ []
 
 [20
 
- <C:/Program Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonbook.pdf> <C:/Prog
-ram Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf>]
+ <./images/definicion_modelo.png>] (Thesis_Presentation.toc) [21
+
+] [22]
 \tf@nav=\write7
 \openout7 = `Thesis_Presentation.nav'.
 
@@ -1478,32 +1520,30 @@ ram Files/MiKTeX 2.9/tex/latex/beamer/art/beamericonarticle.pdf>]
 \tf@snm=\write9
 \openout9 = `Thesis_Presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
 
 (Thesis_Presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `Thesis_Presentation.out' has not changed.
-(rerunfilecheck)             Checksum: EEB1D4DD27654318B2E1BB594784A44E;2421.
+(rerunfilecheck)             Checksum: 447510C3613026F99E4161A44E9B9E6D;1924.
  ) 
 Here is how much of TeX's memory you used:
- 24745 strings out of 493323
- 454975 string characters out of 3139065
- 515724 words of memory out of 3000000
- 27717 multiletter control sequences out of 15000+200000
- 8678 words of font info for 27 fonts, out of 3000000 for 9000
+ 24737 strings out of 493323
+ 454081 string characters out of 3139065
+ 515748 words of memory out of 3000000
+ 27702 multiletter control sequences out of 15000+200000
+ 8049 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,62p,788b,788s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kerkis/kmath.enc}{C:/Program Fil
-es/MiKTeX 2.9/fonts/enc/dvips/kerkis/kerkis.enc}<C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/kerkis/Kerkis-Italic.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/kerkis/KerkisSans-BoldItalic.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/kerkis/KerkisSans-Italic.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/kerkis/KerkisSans.pfb>
-Output written on Thesis_Presentation.pdf (20 pages, 275275 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/kerkis/kerkis.enc}<C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/kerkis/KerkisSans-BoldItalic.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/kerkis/KerkisSans-Italic.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/kerkis/KerkisSans.pfb>
+Output written on Thesis_Presentation.pdf (22 pages, 411634 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 439 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
